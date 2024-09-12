@@ -1,9 +1,9 @@
 /*
 Color palette
-dark green #3c8453
-Sandy beige #bcaa96
-Dark grey #222222
-light gray #d3d4d6
+dark green #283618
+Sandy beige #fefae0
+light green #606c38
+light tan #dda15e
 off white #f6f6f6
 */
 
@@ -49,17 +49,17 @@ html {
   /*links*/
   
   a{
-    color: #3c8453;
+    color: #283618;
   }
   
   a:hover {
-    color: #bcaa96;
+    color: #fefae0;
     text-decoration: none;
   }
   
   .btn {
-    background: #3c8453;
-    color: #f6f6f6;
+    background: #283618;
+    color: #d4a373;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 1.2rem;
@@ -95,7 +95,7 @@ html {
   }
   
   .resume-section h2 {
-    border-bottom: 2px dashed #d3d4d6;
+    border-bottom: 2px dashed #dda15e;
   }
   
   .download-link {
@@ -113,7 +113,7 @@ html {
   }
   
   article p:first-of-type::first-letter {
-    color: #3c8453;
+    color: #283618;
   }
   
   /* PROJECTS
@@ -137,7 +137,7 @@ html {
       column-gap: 20px;
       margin: 30px 0;
       }
-  }
+  
   .work-details p {
       margin: 0;
   }
@@ -158,16 +158,16 @@ html {
   /* FOOTER
   --------------------------------------*/
   footer {
-    background: #222;
-    color: #d3d4d6;
+    background: #606c38;
+    color: #dda15e;
   }
   
   footer a {
-    color: #bcaa96;
+    color: #fefae0;
   }
   
   footer a:hover {
-    color: #3c8453;
+    color: #283618;
   }
   
   .socials {
